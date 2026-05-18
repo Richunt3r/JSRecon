@@ -80,7 +80,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jsrecon.git
+git clone https://github.com/Richunt3r/jsrecon.git
 cd jsrecon
 
 # Install dependencies
