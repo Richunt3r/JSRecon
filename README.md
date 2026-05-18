@@ -13,6 +13,7 @@
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Contributing](#-contributing)
 
 </div>
+<img width="1217" height="692" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/23935ff7-35a9-4d4f-a7e5-ade3afd08325" />
 
 ---
 
